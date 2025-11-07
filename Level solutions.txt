@@ -1,0 +1,44 @@
+Level solutions
+
+
+Level 1:
+Grab 2 to become [1,2] and float up
+Either grab 1 to become [1,1,2] or drop the 2 to become [1] and float down
+Level 2:
+Grab the 2 and at least one additional 1 to become [1,1,2], then move to the right
+Drop the 1s to become [2] and float up
+Level 3:
+Grab cannisters to become [3,3,3,1] then move to the right and drop the 1 above the hole for later
+Go back and grab another 1 cannister to become [3,3,3,1], move to the hole
+Drop the 3s and grab the 1, become [1,1] and float down
+Use one cannister to open the door, then walk to the move to the end of the level
+Level 4: 
+Grab cannisters to become [2,2,1,1] and float up to layer 2
+(Optional)
+Go to the 4 dispenser and change to [4,2,2,1], move to the right underneath the collectibles and drop the 4 for later.
+Repeat the previous step
+Go to the 4 dispenser and change to [4,2,2,1], move to the right underneath the collectibles, pick up the previously stashed 4s to become [4,4,4,2], float all the way to the top collectible
+Drop all 4s to become [2] and float back down
+(End of optional)
+Go to the 4 dispenser and change to [4,2,2,1], then move to the very right
+Drop everything but the 4 to become [4], float up and end the level
+Level 5:
+Grab cannisters to become [3,3,2,1] and float up to layer 2
+Move to the left and drop both 3 cannisters for later, become [2,1]
+Move back to the right and drop the equipped 2 cannister to become [1] and float back down.
+Repeat step 1
+Grab previously stashed 3 cannisters to become [3,3,3,3] and float up to layer 3
+Open all doors using a cannister and end the level
+Level 6:
+Grab cannisters to become [3,3,2,1] and float up to layer 2
+Move to the right and drop the 1 cannister to become [3,3,2] and float up to layer 3
+Drop a 3 cannister in the door to open it, becoming [3,2]
+Drop the other 3 cannister to become [2] and float down to layer 2
+Grab the previously stashed one cannister, move to the left then drop the 2 cannister to become [1] and float down to layer one
+Repeat step one
+Move to the right and drop both 3 cannisters, becoming [2,1]
+Drop the equipped 2 cannister to become [1] and drop back down to layer 2
+Repeat step one
+Move to the right and grab the previously stashed 3 gas cannisters and become [3,3,3,1] to float up to layer three
+Move to the right into the slalom, then drop one 3 cannister to become [3,3,1] and float down to layer two
+Move to the right again and drop the 1 cannister to become [3,3] and float back up to layer three and beat the level
